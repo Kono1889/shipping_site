@@ -1,8 +1,9 @@
+import LogInPage from "./components/LogInPage";
 
-function App() {
+const App=()=> {
   return (
     <div className="App">
-     
+      <LogInPage/>
     </div>
   );
 }
