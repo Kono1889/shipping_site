@@ -6,7 +6,7 @@ const LogInPage = () => {
     <div className='main-area'>
       <div className='login-area'>
         <div className='login-label'>
-
+          <p className='text-3xl font-bold underline'>Hello</p>
         </div>
 
       </div>
